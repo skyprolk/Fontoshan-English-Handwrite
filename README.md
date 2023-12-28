@@ -15,7 +15,7 @@ The font meticulously crafted by SKY PRODUCTION. With each stroke, this handwrit
 
 ## License Information
 
-This font is released under the Free for Commercial Use License. Please refer to the LICENSE.txt file for detailed licensing information.
+This font is released under the Free for Commercial Use License. Please refer to the [LICENSE.md](https://github.com/skyprolk/Fontoshan-English-Handwrite/blob/main/LICENSE.md) file for detailed licensing information.
 
 ## Installation
 
