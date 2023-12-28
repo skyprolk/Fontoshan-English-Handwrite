@@ -6,18 +6,18 @@ The font meticulously crafted by SKY PRODUCTION. With each stroke, this handwrit
 
 ![Fontoshan-English-Handwrite-Preview](https://github.com/skyprolk/Fontoshan-English-Handwrite/blob/main/preview/Fontoshan%20English%20Handwrite%20Preview.jpg)
 
-## FONT INFORMATION
+## Font Information
 
 **Font Name:** Fontoshan English Handwrite <br/>
 **Version:** 1.0 <br/>
 **Designer:** SKY PRODUCTION <br/>
 **Release Date:** 2023.12.20 <br/>
 
-## LICENSE INFORMATION
+## License Information
 
 This font is released under the Free for Commercial Use License. Please refer to the LICENSE.txt file for detailed licensing information.
 
-## INSTALLATION
+## Installation
 
 To install the Fontoshan English Handwrite font, follow these steps:
 
@@ -27,11 +27,11 @@ To install the Fontoshan English Handwrite font, follow these steps:
    - For Windows: Right-click on the font file and select "_Install._"
    - For Mac: Double-click the font file and click "_Install Font._"
 
-## USAGE
+## Usage
 
 Feel free to use Fontoshan English Handwrite for both personal and commercial projects. However, please adhere to the terms outlined in the LICENSE.txt file.
 
 If used in commercial projects, it is appreciated but not mandatory to provide attribution to SKY PRODUCTION.
 
 ### ENJOY YOUR FONT!
-### Thank you for choosing Fontoshan English Handwrite. We hope you enjoy using it in your creative projects!
+#### Thank you for choosing Fontoshan English Handwrite. We hope you enjoy using it in your creative projects!
