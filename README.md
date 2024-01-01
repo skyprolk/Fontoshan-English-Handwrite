@@ -29,7 +29,7 @@ To install the Fontoshan English Handwrite font, follow these steps:
 
 ## Usage
 
-Feel free to use Fontoshan English Handwrite for both personal and commercial projects. However, please adhere to the terms outlined in the LICENSE.txt file.
+Feel free to use Fontoshan English Handwrite for both personal and commercial projects. However, please adhere to the terms outlined in the [LICENSE.txt](https://github.com/skyprolk/Fontoshan-English-Handwrite/blob/main/docs/LICENSE.txt) file.
 
 If used in commercial projects, it is appreciated but not mandatory to provide attribution to SKY PRODUCTION.
 
